@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+
+ul{
+    font-size: 20px;
+    font-family:monospace;
+    text-align: right;
+}
+.welcome{
+    color:rgb(255, 250, 240,); 
+    background-color: #572806;
+    height: 5rem;
+    margin-top: 0;
+}
+.welcome li {
+   display: inline;
+}
+
+.logo {
+    float: left;
+}
+.welcome ul {
+    padding: 2%;
+    margin-top: 0;
+    vertical-align: middle;
+ }
+ .welcome a {
+    text-decoration: none;
+    color: #ffffff;
+    margin-left: 10px;
+    margin-right: 10px;
+ }
